@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/4MtDZ1c/124849.jpg",
+      "title": "The Art of Algorithms",
+      "author_name": "CodeMaster",
+      "author_img": "https://i.ibb.co/xgjq7yN/5042.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["algorithm", "coding", "optimization"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/2S50b63/2890891-330.jpg",
+      "title": "Pythonic Wonders",
+      "author_name": "PyGuru",
+      "author_img": "https://i.ibb.co/Bnfkm6L/9883.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 8,
+      "hashtags": ["python", "programming", "tips"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/SrLrG7m/2149901770.jpg",
+      "title": "JavaScript Mastery",
+      "author_name": "JSWizard",
+      "author_img": "https://i.ibb.co/QrYkfzS/15906.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 12,
+      "hashtags": ["javascript", "webdev", "frontend"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/WHmqVLh/2149901779.jpg",
+      "title": "C++ Unleashed",
+      "author_name": "CodeNinja",
+      "author_img": "https://i.ibb.co/BCP6mfS/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtags": ["cplusplus", "performance", "advanced"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/VMW4N16/2150061955.jpg",
+      "title": "Data Structures Demystified",
+      "author_name": "DataWhiz",
+      "author_img": "https://i.ibb.co/7CSxY8h/bruce-mars-8-YG31-Xn4d-Sw-unsplash.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 10,
+      "hashtags": ["datastructures", "algorithms", "education"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/pKKD38N/2150376748.jpg",
+      "title": "Ruby on Rails Revealed",
+      "author_name": "RubyMaestro",
+      "author_img": "https://i.ibb.co/VpNps3w/icons8-team-m0o-STE-Mjs-I-unsplash.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 9,
+      "hashtags": ["rubyonrails", "webdevelopment", "backend"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/FWvrVV7/2150376764.jpg",
+      "title": "Java Fundamentals",
+      "author_name": "JavaSensei",
+      "author_img": "https://i.ibb.co/X51YqyF/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 11,
+      "hashtags": ["java", "oop", "fundamentals"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/SNRH7H4/html-system-website-concept-1.jpg",
+      "title": "Machine Learning Magic",
+      "author_name": "MLGenius",
+      "author_img": "https://i.ibb.co/hL0rHHr/peter-van-eijk-ei-Dw0o-X8-YQQ-unsplash.jpg",
+      "posted_date": "2024-03-07",
+      "reading_time": 14,
+      "hashtags": ["machinelearning", "ai", "datascience"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/Wcy2DmK/html-system-website-concept.jpg",
+      "title": "Swift Essentials",
+      "author_name": "SwiftSavvy",
+      "author_img": "https://i.ibb.co/yPP0xw4/shipman-northcutt-sg-ZX15-Da8-YE-unsplash.jpg",
+      "posted_date": "2024-03-06",
+      "reading_time": 7,
+      "hashtags": ["swift", "ios", "mobile"]
+    }
+  ]
+  
